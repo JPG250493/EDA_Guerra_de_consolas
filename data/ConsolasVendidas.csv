@@ -1,0 +1,83 @@
+Pos;Platform;North America;Europe;Japan;Rest of World;Global
+1;PlayStation 2 (PS2);53.65;55.28;23.18;27.90;160.01
+2;Nintendo DS (DS);57.92;51.84;32.99;11.28;154.02
+3;Nintendo Switch (NS);53.49;39.36;36.32;23.56;152.72
+4;Game Boy (GB);43.18;40.05;32.47;2.99;118.69
+5;PlayStation 4 (PS4);38.12;45.86;9.68;23.53;117.20
+6;PlayStation (PS);40.78;31.09;21.59;9.04;102.49
+7;Nintendo Wii (Wii);45.51;33.12;12.77;10.23;101.63
+8;PlayStation 3 (PS3);29.60;30.87;10.47;16.47;87.40
+9;PlayStation 5 (PS5);30.58;30.44;7.22;17.89;86.12
+10;Xbox 360 (X360);46.14;25.08;1.66;12.85;85.73
+11;PlayStation Portable (PSP);21.62;25.31;20.02;15.57;82.52
+12;Game Boy Advance (GBA);40.39;21.31;16.96;2.85;81.51
+13;Nintendo 3DS (3DS);25.47;20.45;24.67;5.35;75.94
+14;Nintendo Entertainment System (NES);33.49;8.30;19.35;0.77;61.91
+15;Xbox One (XOne);32.97;14.86;0.12;10.02;57.96
+16;Super Nintendo Entertainment System (SNES);22.88;8.15;17.17;0.90;49.10
+17;Xbox Series X/S (XS);19.06;8.75;0.69;5.60;34.10
+18;Sega Genesis (GEN);18.50;8.39;3.58;3.59;34.06
+19;Nintendo 64 (N64);20.11;6.35;5.54;0.93;32.93
+20;Atari 2600 (2600);23.54;3.35;2.36;0.75;30.00
+21;Xbox (XB);15.77;7.17;0.47;1.24;24.65
+22;GameCube (GC);12.55;4.44;4.04;0.71;21.74
+23;Sega Master System (MS);2.00;6.95;2.52;9.37;20.84
+24;Nintendo Wii U (WiiU);6.15;3.27;3.33;0.82;13.56
+25;PlayStation Vita (PSV);2.70;2.89;5.73;1.81;13.13
+26;Nintendo Switch 2 (NS2);3.88;2.78;2.99;2.85;12.49
+27;GameGear (GG);5.40;3.23;1.78;0.21;10.62
+28;TurboGrafx-16 (TG16);0.75;N/A;7.76;N/A;10.00
+29;Sega Saturn (SAT);1.83;1.10;5.80;0.53;9.26
+30;Dreamcast (DC);3.90;1.91;2.25;1.07;9.13
+31;Intellivision (Int);N/A;N/A;N/A;N/A;5.00
+32;Sega Advanced Pico Beena (Beena);N/A;N/A;4.10;N/A;4.10
+33;Atari 7800 (7800);3.77;N/A;N/A;N/A;3.77
+34;WonderSwan (WS);N/A;N/A;3.50;N/A;3.50
+35;Sega Pico (Pico);N/A;N/A;N/A;N/A;3.40
+36;N-Gage (NGage);N/A;N/A;N/A;N/A;3.00
+37;3DO Interactive Multiplayer (3DO);N/A;N/A;N/A;N/A;2.00
+38;ColecoVision (CV);N/A;N/A;N/A;N/A;2.00
+39;Neo Geo Pocket (NGP);N/A;N/A;0.55;N/A;2.00
+40;Magnavox Odyssey 2 (Odys2);N/A;N/A;N/A;N/A;2.00
+41;Sega SG (SG);N/A;N/A;1.92;N/A;1.92
+42;TurboExpress (TE);N/A;N/A;N/A;N/A;1.50
+43;Neo Geo (NG);N/A;N/A;1.00;N/A;1.06
+44;Atari Lynx (Lynx);N/A;N/A;N/A;N/A;1.00
+45;Atari 5200 (5200);1.00;N/A;N/A;N/A;1.00
+46;CD-i (CDi);0.40;N/A;N/A;N/A;1.00
+47;Coleco Telstar (CT);1.00;N/A;N/A;N/A;1.00
+48;Dingoo (Ding);N/A;N/A;N/A;1.00;1.00
+49;Genesis Nomad (GN);1.00;N/A;N/A;N/A;1.00
+50;Virtual Boy (VB);0.50;N/A;0.14;N/A;0.77
+51;Neo Geo CD (NGCD);N/A;N/A;N/A;N/A;0.57
+52;Cybiko (Cyb);N/A;N/A;N/A;N/A;0.50
+53;PC-FX (PCFX);N/A;N/A;0.40;N/A;0.40
+54;Cassette Vision (CaVi);N/A;N/A;0.40;N/A;0.40
+55;Fairchild Channel F (FCF);N/A;N/A;N/A;N/A;0.35
+56;Magnavox Odyssey (Odys);N/A;N/A;N/A;N/A;0.35
+57;Game.com (Ga);N/A;N/A;N/A;N/A;0.30
+58;Super Cassette Vision (SCaVi);N/A;N/A;0.30;N/A;0.30
+59;Atari Jaguar (AJ);N/A;N/A;N/A;N/A;0.25
+60;Tapwave Zodiac (TZ);N/A;N/A;N/A;N/A;0.20
+61;Ouya (Ouya);N/A;N/A;N/A;N/A;0.20
+62;Neo Geo Pocket Color (NGPC);N/A;0.10;0.03;N/A;0.13
+63;Tomy Tutor (TT);N/A;N/A;0.12;N/A;0.12
+64;Amiga CD32 (CD32);N/A;0.10;N/A;N/A;0.10
+65;PC Engine SuperGrafx (SGrafx);N/A;N/A;0.08;N/A;0.08
+66;Game Wave (GW);0.07;N/A;N/A;N/A;0.07
+67;GP2X (GP2X);N/A;N/A;N/A;0.06;0.06
+68;RCA Studio II (RCA);0.06;N/A;N/A;N/A;0.06
+69;Playdate (PD);N/A;N/A;N/A;N/A;0.05
+70;APF-MP1000 (MP1000);0.05;N/A;N/A;N/A;0.05
+71;FM Towns Marty (FMTM);N/A;N/A;0.05;N/A;0.05
+72;Apple Pippin (AP);N/A;N/A;N/A;N/A;0.04
+73;GamePark 32 (GP32);N/A;N/A;N/A;N/A;0.03
+74;Gizmondo (GIZ);N/A;N/A;N/A;N/A;0.02
+75;Amstrad GX4000 (GX4000);N/A;0.02;N/A;N/A;0.02
+76;Commodore 64 Games System (C64GS);N/A;0.02;N/A;N/A;0.02
+77;IQue Player (IQue);N/A;N/A;N/A;0.01;0.01
+78;Tandy Video Information System (VIS);0.01;N/A;N/A;N/A;0.01
+79;HyperScan (HS);N/A;N/A;N/A;N/A;0.01
+80;Adventure Vision (AV);0.01;N/A;N/A;N/A;0.01
+81;Palmtex Portable Videogame System (PVS);0.01;N/A;N/A;N/A;0.01
+82;Pandora (Pa);N/A;N/A;N/A;N/A;0.01
